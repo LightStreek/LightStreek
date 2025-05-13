@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LightStreek
 - 👀 I’m interested in Machine Learning and electronics
-- 🌱 I’m currently data structure and algorithms
+- 🌱 I’m currently looking into data structure and algorithms
 - 💞️ I’m looking to collaborate on any machine learing implementation to gain a deeper understading how it works.
 - 📫 How to reach me ...
 
